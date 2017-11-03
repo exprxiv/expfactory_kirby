@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_kirby",
+    "alt_name": "Kirby Delay-Discounting Task",
+    "description": "Subjects choose between smaller immediate monetary rewards and larger delayed ones. 27 items divided in to three groups by the size of the larger amount (small, medium, large).",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_kirby.git"},
+    "contributors": ["Zeynep Enkavi", "Ian Eisenberg", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "5",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "tsk_4a57abb949e98"} ],
+    "reference": "http://link.springer.com/article/10.3758/BF03210748"
+}
